@@ -1,0 +1,15 @@
+# Python
+backend/venv/
+*.pyc
+__pycache__/
+backend/.env
+
+# Node / Frontend
+frontend/multi-agent-frontend/node_modules/
+frontend/dist/
+frontend/.env
+*.log
+
+# OS / IDE
+.DS_Store
+.vscode/
