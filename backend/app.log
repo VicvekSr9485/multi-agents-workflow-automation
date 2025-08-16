@@ -1,0 +1,117 @@
+2025-08-16 05:07:36,608 - logger - INFO - [2025-08-16T05:07:36.608537] Agent 'ResearchAgent' started with params: {'topic': 'AI in healthcare', 'num_results': 3}
+2025-08-16 05:07:37,975 - logger - INFO - [2025-08-16T05:07:37.975783] Agent 'ResearchAgent' completed in 1.37s with output size: 2
+2025-08-16 05:07:37,975 - logger - INFO - [2025-08-16T05:07:37.975903] Agent 'AnalysisAgent' started with params: {'num_results': 0}
+2025-08-16 05:08:13,714 - logger - INFO - [2025-08-16T05:08:13.714547] Agent 'AnalysisAgent' completed in 35.74s with output size: 6446
+2025-08-16 05:08:13,714 - logger - INFO - [2025-08-16T05:08:13.714716] Agent 'WriterAgent' started with params: {'report_style': 'formal'}
+2025-08-16 05:08:40,543 - logger - INFO - [2025-08-16T05:08:40.543004] Agent 'WriterAgent' completed in 26.83s with output size: 4672
+2025-08-16 05:08:40,543 - logger - INFO - [2025-08-16T05:08:40.543144] Agent 'ReviewerAgent' started with params: {}
+2025-08-16 05:09:14,437 - logger - INFO - [2025-08-16T05:09:14.437509] Agent 'ReviewerAgent' completed in 33.89s with output size: 138
+2025-08-16 05:09:14,442 - logger - INFO - [2025-08-16T05:09:14.442017] Agent 'ResearchAgent' started with params: {'topic': 'AI in healthcare', 'num_results': 3}
+2025-08-16 05:09:15,207 - logger - INFO - [2025-08-16T05:09:15.207386] Agent 'ResearchAgent' completed in 0.77s with output size: 2
+2025-08-16 05:09:15,207 - logger - INFO - [2025-08-16T05:09:15.207563] Agent 'AnalysisAgent' started with params: {'num_results': 0}
+2025-08-16 05:09:48,541 - logger - INFO - [2025-08-16T05:09:48.541670] Agent 'AnalysisAgent' completed in 33.33s with output size: 7091
+2025-08-16 05:09:48,542 - logger - INFO - [2025-08-16T05:09:48.542312] Agent 'WriterAgent' started with params: {'report_style': 'formal'}
+2025-08-16 05:10:22,125 - logger - INFO - [2025-08-16T05:10:22.125862] Agent 'WriterAgent' completed in 33.58s with output size: 5886
+2025-08-16 05:10:22,126 - logger - INFO - [2025-08-16T05:10:22.126164] Agent 'ReviewerAgent' started with params: {}
+2025-08-16 05:10:54,280 - logger - INFO - [2025-08-16T05:10:54.280240] Agent 'ReviewerAgent' completed in 32.15s with output size: 138
+2025-08-16 05:20:11,081 - logger - INFO - [2025-08-16T05:20:11.081927] Agent 'ResearchAgent' started with params: {'topic': 'AI in healthcare', 'num_results': 3}
+2025-08-16 05:20:13,002 - logger - INFO - [2025-08-16T05:20:13.002050] Agent 'ResearchAgent' completed in 1.92s with output size: 2
+2025-08-16 05:20:13,002 - logger - INFO - [2025-08-16T05:20:13.002210] Agent 'AnalysisAgent' started with params: {'num_results': 0}
+2025-08-16 05:21:44,579 - logger - INFO - [2025-08-16T05:21:44.579855] Agent 'ResearchAgent' started with params: {'topic': 'AI in healthcare', 'num_results': 3}
+2025-08-16 05:21:45,399 - logger - INFO - [2025-08-16T05:21:45.399681] Agent 'ResearchAgent' completed in 0.82s with output size: 2
+2025-08-16 05:21:45,399 - logger - INFO - [2025-08-16T05:21:45.399912] Agent 'AnalysisAgent' started with params: {'num_results': 0}
+2025-08-16 05:22:19,743 - logger - INFO - [2025-08-16T05:22:19.743452] Agent 'AnalysisAgent' completed in 34.34s with output size: 7057
+2025-08-16 05:22:19,743 - logger - INFO - [2025-08-16T05:22:19.743647] Agent 'WriterAgent' started with params: {'report_style': 'formal'}
+2025-08-16 05:22:45,550 - logger - INFO - [2025-08-16T05:22:45.550559] Agent 'WriterAgent' completed in 25.81s with output size: 5705
+2025-08-16 05:22:45,550 - logger - INFO - [2025-08-16T05:22:45.550697] Agent 'ReviewerAgent' started with params: {}
+2025-08-16 05:23:21,992 - logger - INFO - [2025-08-16T05:23:21.992035] Agent 'ReviewerAgent' completed in 36.44s with output size: 138
+2025-08-16 05:24:06,835 - logger - INFO - [2025-08-16T05:24:06.835507] Agent 'ResearchAgent' started with params: {'topic': 'AI in healthcare', 'num_results': 3}
+2025-08-16 05:24:07,640 - logger - INFO - [2025-08-16T05:24:07.640748] Agent 'ResearchAgent' completed in 0.81s with output size: 2
+2025-08-16 05:24:07,640 - logger - INFO - [2025-08-16T05:24:07.640966] Agent 'AnalysisAgent' started with params: {'num_results': 0}
+2025-08-16 05:24:45,817 - logger - INFO - [2025-08-16T05:24:45.817431] Agent 'AnalysisAgent' completed in 38.18s with output size: 7162
+2025-08-16 05:24:45,817 - logger - INFO - [2025-08-16T05:24:45.817635] Agent 'WriterAgent' started with params: {'report_style': 'formal'}
+2025-08-16 05:25:09,424 - logger - INFO - [2025-08-16T05:25:09.424838] Agent 'WriterAgent' completed in 23.61s with output size: 5985
+2025-08-16 05:25:09,425 - logger - INFO - [2025-08-16T05:25:09.425181] Agent 'ReviewerAgent' started with params: {}
+2025-08-16 05:25:47,933 - logger - INFO - [2025-08-16T05:25:47.933560] Agent 'ReviewerAgent' completed in 38.51s with output size: 138
+2025-08-16 05:55:41,989 - logger - INFO - [2025-08-16T05:55:41.989189] Agent 'ResearchAgent' started with params: {'topic': 'AI in healthcare', 'num_results': 3}
+2025-08-16 05:55:49,007 - logger - INFO - [2025-08-16T05:55:49.007227] Agent 'ResearchAgent' completed in 7.02s with output size: 1979
+2025-08-16 05:55:49,007 - logger - INFO - [2025-08-16T05:55:49.007387] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-16 05:56:40,482 - logger - INFO - [2025-08-16T05:56:40.482421] Agent 'AnalysisAgent' completed in 51.48s with output size: 7492
+2025-08-16 05:56:40,482 - logger - INFO - [2025-08-16T05:56:40.482605] Agent 'WriterAgent' started with params: {'report_style': 'formal'}
+2025-08-16 05:57:05,162 - logger - INFO - [2025-08-16T05:57:05.161983] Agent 'WriterAgent' completed in 24.68s with output size: 7783
+2025-08-16 05:57:05,162 - logger - INFO - [2025-08-16T05:57:05.162193] Agent 'ReviewerAgent' started with params: {}
+2025-08-16 05:57:43,463 - logger - INFO - [2025-08-16T05:57:43.463515] Agent 'ReviewerAgent' completed in 38.30s with output size: 138
+2025-08-16 06:00:52,946 - logger - INFO - [2025-08-16T06:00:52.946156] Agent 'ResearchAgent' started with params: {'topic': '2025 AI trends', 'num_results': 3}
+2025-08-16 06:01:04,353 - logger - INFO - [2025-08-16T06:01:04.353164] Agent 'ResearchAgent' completed in 11.41s with output size: 0
+2025-08-16 06:02:32,843 - logger - INFO - [2025-08-16T06:02:32.843502] Agent 'ResearchAgent' started with params: {'topic': '2025 AI trends', 'num_results': 3}
+2025-08-16 06:02:48,101 - logger - INFO - [2025-08-16T06:02:48.101466] Agent 'ResearchAgent' completed in 15.26s with output size: 1966
+2025-08-16 06:02:48,103 - logger - INFO - [2025-08-16T06:02:48.103109] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-16 06:03:39,027 - logger - INFO - [2025-08-16T06:03:39.026971] Agent 'AnalysisAgent' completed in 50.92s with output size: 8332
+2025-08-16 06:03:39,027 - logger - INFO - [2025-08-16T06:03:39.027144] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-16 06:04:03,195 - logger - INFO - [2025-08-16T06:04:03.195144] Agent 'WriterAgent' completed in 24.17s with output size: 7045
+2025-08-16 06:04:03,195 - logger - INFO - [2025-08-16T06:04:03.195290] Agent 'ReviewerAgent' started with params: {}
+2025-08-16 06:04:33,612 - logger - INFO - [2025-08-16T06:04:33.612710] Agent 'ReviewerAgent' completed in 30.42s with output size: 138
+2025-08-16 06:16:07,753 - logger - INFO - [2025-08-16T06:16:07.753332] Agent 'ResearchAgent' started with params: {'topic': 'recent GMO issues', 'num_results': 3}
+2025-08-16 06:16:18,991 - logger - INFO - [2025-08-16T06:16:18.991093] Agent 'ResearchAgent' completed in 11.24s with output size: 2042
+2025-08-16 06:16:18,991 - logger - INFO - [2025-08-16T06:16:18.991337] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-16 06:17:10,957 - logger - INFO - [2025-08-16T06:17:10.957617] Agent 'AnalysisAgent' completed in 51.97s with output size: 7122
+2025-08-16 06:17:10,958 - logger - INFO - [2025-08-16T06:17:10.958446] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-16 06:17:33,702 - logger - INFO - [2025-08-16T06:17:33.702186] Agent 'WriterAgent' completed in 22.74s with output size: 5487
+2025-08-16 06:17:33,702 - logger - INFO - [2025-08-16T06:17:33.702317] Agent 'ReviewerAgent' started with params: {}
+2025-08-16 06:17:58,613 - logger - INFO - [2025-08-16T06:17:58.613450] Agent 'ReviewerAgent' completed in 24.91s with output size: 0
+2025-08-16 06:22:32,281 - logger - INFO - [2025-08-16T06:22:32.281734] Agent 'ResearchAgent' started with params: {'topic': 'recent GMO issues', 'num_results': 3}
+2025-08-16 06:22:39,148 - logger - INFO - [2025-08-16T06:22:39.148908] Agent 'ResearchAgent' completed in 6.87s with output size: 2094
+2025-08-16 06:22:39,149 - logger - INFO - [2025-08-16T06:22:39.149116] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-16 06:23:36,074 - logger - INFO - [2025-08-16T06:23:36.074888] Agent 'AnalysisAgent' completed in 56.93s with output size: 8061
+2025-08-16 06:23:36,075 - logger - INFO - [2025-08-16T06:23:36.075077] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-16 06:23:59,690 - logger - INFO - [2025-08-16T06:23:59.690240] Agent 'WriterAgent' completed in 23.62s with output size: 5948
+2025-08-16 06:23:59,690 - logger - INFO - [2025-08-16T06:23:59.690447] Agent 'ReviewerAgent' started with params: {}
+2025-08-16 06:24:26,244 - logger - INFO - [2025-08-16T06:24:26.244045] Agent 'ReviewerAgent' completed in 26.55s with output size: 138
+2025-08-16 06:35:27,650 - logger - INFO - [2025-08-16T06:35:27.650178] Agent 'ResearchAgent' started with params: {'topic': 'recent GMO issues', 'num_results': 3}
+2025-08-16 06:35:34,361 - logger - INFO - [2025-08-16T06:35:34.360922] Agent 'ResearchAgent' completed in 6.71s with output size: 2094
+2025-08-16 06:35:34,361 - logger - INFO - [2025-08-16T06:35:34.361253] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-16 06:36:28,040 - logger - INFO - [2025-08-16T06:36:28.040800] Agent 'AnalysisAgent' completed in 53.68s with output size: 7461
+2025-08-16 06:36:28,040 - logger - INFO - [2025-08-16T06:36:28.040986] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-16 06:36:50,879 - logger - INFO - [2025-08-16T06:36:50.879603] Agent 'WriterAgent' completed in 22.84s with output size: 7362
+2025-08-16 06:36:50,879 - logger - INFO - [2025-08-16T06:36:50.879806] Agent 'ReviewerAgent' started with params: {}
+2025-08-16 06:37:22,928 - logger - INFO - [2025-08-16T06:37:22.928065] Agent 'ReviewerAgent' completed in 32.05s with output size: 138
+2025-08-16 06:46:29,424 - logger - INFO - [2025-08-16T06:46:29.424208] Agent 'ResearchAgent' started with params: {'topic': 'recent GMO issues', 'num_results': 3}
+2025-08-16 06:46:35,704 - logger - INFO - [2025-08-16T06:46:35.704219] Agent 'ResearchAgent' completed in 6.28s with output size: 2048
+2025-08-16 06:46:35,704 - logger - INFO - [2025-08-16T06:46:35.704371] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-16 06:47:26,783 - logger - INFO - [2025-08-16T06:47:26.783666] Agent 'AnalysisAgent' completed in 51.08s with output size: 7320
+2025-08-16 06:47:26,783 - logger - INFO - [2025-08-16T06:47:26.783873] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-16 06:48:09,395 - logger - INFO - [2025-08-16T06:48:09.395561] Agent 'WriterAgent' completed in 42.61s with output size: 97816
+2025-08-16 06:48:09,395 - logger - INFO - [2025-08-16T06:48:09.395703] Agent 'ReviewerAgent' started with params: {}
+2025-08-16 06:49:01,144 - logger - INFO - [2025-08-16T06:49:01.144556] Agent 'ReviewerAgent' completed in 51.75s with output size: 138
+2025-08-16 06:57:58,791 - logger - INFO - [2025-08-16T06:57:58.791253] Agent 'ResearchAgent' started with params: {'topic': 'recent GMO issues', 'num_results': 3}
+2025-08-16 06:58:06,556 - logger - INFO - [2025-08-16T06:58:06.556387] Agent 'ResearchAgent' completed in 7.77s with output size: 2094
+2025-08-16 06:58:06,556 - logger - INFO - [2025-08-16T06:58:06.556556] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-16 06:59:05,931 - logger - INFO - [2025-08-16T06:59:05.931595] Agent 'AnalysisAgent' completed in 59.38s with output size: 7443
+2025-08-16 06:59:05,932 - logger - INFO - [2025-08-16T06:59:05.932357] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-16 06:59:30,611 - logger - INFO - [2025-08-16T06:59:30.611116] Agent 'WriterAgent' completed in 24.68s with output size: 7007
+2025-08-16 06:59:30,611 - logger - INFO - [2025-08-16T06:59:30.611764] Agent 'ReviewerAgent' started with params: {}
+2025-08-16 07:00:04,092 - logger - INFO - [2025-08-16T07:00:04.091996] Agent 'ReviewerAgent' completed in 33.48s with output size: 138
+2025-08-16 07:09:33,562 - logger - INFO - [2025-08-16T07:09:33.562718] Agent 'ResearchAgent' started with params: {'topic': 'recent GMO issues', 'num_results': 3}
+2025-08-16 07:09:44,956 - logger - INFO - [2025-08-16T07:09:44.956687] Agent 'ResearchAgent' completed in 11.39s with output size: 2034
+2025-08-16 07:09:44,956 - logger - INFO - [2025-08-16T07:09:44.956930] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-16 07:10:40,917 - logger - INFO - [2025-08-16T07:10:40.917321] Agent 'AnalysisAgent' completed in 55.96s with output size: 7804
+2025-08-16 07:10:40,917 - logger - INFO - [2025-08-16T07:10:40.917495] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-16 07:11:12,349 - logger - INFO - [2025-08-16T07:11:12.349716] Agent 'WriterAgent' completed in 31.43s with output size: 5371
+2025-08-16 07:11:12,349 - logger - INFO - [2025-08-16T07:11:12.349851] Agent 'ReviewerAgent' started with params: {}
+2025-08-16 07:11:35,084 - logger - INFO - [2025-08-16T07:11:35.084945] Agent 'ReviewerAgent' completed in 22.74s with output size: 138
+2025-08-16 07:20:25,226 - logger - INFO - [2025-08-16T07:20:25.226400] Agent 'ResearchAgent' started with params: {'topic': 'recent GMO issues', 'num_results': 5}
+2025-08-16 07:20:35,586 - logger - INFO - [2025-08-16T07:20:35.586296] Agent 'ResearchAgent' completed in 10.36s with output size: 3455
+2025-08-16 07:20:35,586 - logger - INFO - [2025-08-16T07:20:35.586513] Agent 'AnalysisAgent' started with params: {'num_results': 5}
+2025-08-16 07:21:49,883 - logger - INFO - [2025-08-16T07:21:49.883650] Agent 'AnalysisAgent' completed in 74.30s with output size: 9245
+2025-08-16 07:21:49,883 - logger - INFO - [2025-08-16T07:21:49.883830] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-16 07:22:15,687 - logger - INFO - [2025-08-16T07:22:15.687785] Agent 'WriterAgent' completed in 25.80s with output size: 6758
+2025-08-16 07:22:15,687 - logger - INFO - [2025-08-16T07:22:15.687918] Agent 'ReviewerAgent' started with params: {}
+2025-08-16 07:22:38,113 - logger - INFO - [2025-08-16T07:22:38.113382] Agent 'ReviewerAgent' completed in 22.43s with output size: 138
+2025-08-16 07:26:51,127 - logger - INFO - [2025-08-16T07:26:51.127397] Agent 'ResearchAgent' started with params: {'topic': 'recent GMO issues', 'num_results': 3}
+2025-08-16 07:26:57,782 - logger - INFO - [2025-08-16T07:26:57.782655] Agent 'ResearchAgent' completed in 6.66s with output size: 2094
+2025-08-16 07:26:57,782 - logger - INFO - [2025-08-16T07:26:57.782885] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-16 07:27:50,714 - logger - INFO - [2025-08-16T07:27:50.714792] Agent 'AnalysisAgent' completed in 52.93s with output size: 7506
+2025-08-16 07:27:50,715 - logger - INFO - [2025-08-16T07:27:50.715187] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-16 07:28:15,419 - logger - INFO - [2025-08-16T07:28:15.419666] Agent 'WriterAgent' completed in 24.70s with output size: 6275
+2025-08-16 07:28:15,419 - logger - INFO - [2025-08-16T07:28:15.419904] Agent 'ReviewerAgent' started with params: {}
+2025-08-16 07:28:45,728 - logger - INFO - [2025-08-16T07:28:45.728707] Agent 'ReviewerAgent' completed in 30.31s with output size: 138
