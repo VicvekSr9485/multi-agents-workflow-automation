@@ -34,7 +34,7 @@ const Home: React.FC = () => {
     <div className="min-h-screen bg-gray-50 py-8">
       <div className="max-w-4xl mx-auto px-4">
         <header className="text-center mb-10">
-          <h1 className="text-3xl font-bold text-gray-900 mb-2">Product Research & Report Generator</h1>
+          <h1 className="text-3xl font-bold text-gray-900 mb-2">Product / Topic Research & Report Generator</h1>
           <p className="text-gray-600">
             Enter a research topic to generate a comprehensive business report
           </p>

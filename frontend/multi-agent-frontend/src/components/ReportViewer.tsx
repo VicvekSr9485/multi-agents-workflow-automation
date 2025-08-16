@@ -37,6 +37,15 @@ const ReportViewer: React.FC<ReportViewerProps> = ({
     document.body.removeChild(element);
   };
 
+  const formatMarkdownContent = (content: string) => {
+    // Clean up excessive markdown formatting
+    return content
+      .replace(/#{3,}/g, '###') // Limit headers to max 3 levels
+      .replace(/\*{2,}/g, '**') // Limit bold to double asterisks
+      .replace(/_{2,}/g, '__') // Limit underline to double underscores
+      .replace(/\n{3,}/g, '\n\n'); // Limit consecutive newlines
+  };
+
   const renderTable = (tableData: any[]) => {
     if (!tableData || tableData.length === 0) return null;
     
@@ -144,7 +153,9 @@ const ReportViewer: React.FC<ReportViewerProps> = ({
         </div>
         
         <div className="prose max-w-none">
-          <div className="text-gray-700 whitespace-pre-line">{finalReport}</div>
+          <div className="text-gray-700 whitespace-pre-line">
+            {formatMarkdownContent(finalReport)}
+          </div>
         </div>
         
         {reviewNotes && (

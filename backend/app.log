@@ -115,3 +115,35 @@
 2025-08-16 07:28:15,419 - logger - INFO - [2025-08-16T07:28:15.419666] Agent 'WriterAgent' completed in 24.70s with output size: 6275
 2025-08-16 07:28:15,419 - logger - INFO - [2025-08-16T07:28:15.419904] Agent 'ReviewerAgent' started with params: {}
 2025-08-16 07:28:45,728 - logger - INFO - [2025-08-16T07:28:45.728707] Agent 'ReviewerAgent' completed in 30.31s with output size: 138
+2025-08-16 19:27:10,116 - logger - INFO - [2025-08-16T19:27:10.116163] Agent 'ResearchAgent' started with params: {'topic': 'Air fryer', 'num_results': 3}
+2025-08-16 19:27:18,865 - logger - INFO - [2025-08-16T19:27:18.864987] Agent 'ResearchAgent' completed in 8.75s with output size: 1887
+2025-08-16 19:27:18,865 - logger - INFO - [2025-08-16T19:27:18.865158] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-16 19:28:07,536 - logger - INFO - [2025-08-16T19:28:07.536498] Agent 'AnalysisAgent' completed in 48.67s with output size: 6969
+2025-08-16 19:28:07,536 - logger - INFO - [2025-08-16T19:28:07.536851] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-16 19:28:31,807 - logger - INFO - [2025-08-16T19:28:31.807376] Agent 'WriterAgent' completed in 24.27s with output size: 6824
+2025-08-16 19:28:31,807 - logger - INFO - [2025-08-16T19:28:31.807795] Agent 'ReviewerAgent' started with params: {}
+2025-08-16 19:29:08,257 - logger - INFO - [2025-08-16T19:29:08.257591] Agent 'ReviewerAgent' completed in 36.45s with output size: 138
+2025-08-16 19:43:46,533 - logger - INFO - [2025-08-16T19:43:46.533021] Agent 'ResearchAgent' started with params: {'topic': 'Air fryer', 'num_results': 3}
+2025-08-16 19:43:52,841 - logger - INFO - [2025-08-16T19:43:52.841396] Agent 'ResearchAgent' completed in 6.31s with output size: 1887
+2025-08-16 19:43:52,841 - logger - INFO - [2025-08-16T19:43:52.841556] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-16 19:44:44,228 - logger - INFO - [2025-08-16T19:44:44.228636] Agent 'AnalysisAgent' completed in 51.39s with output size: 6749
+2025-08-16 19:44:44,228 - logger - INFO - [2025-08-16T19:44:44.228830] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-16 19:45:11,468 - logger - INFO - [2025-08-16T19:45:11.468641] Agent 'WriterAgent' completed in 27.24s with output size: 7217
+2025-08-16 19:45:11,469 - logger - INFO - [2025-08-16T19:45:11.469027] Agent 'ReviewerAgent' started with params: {'draft_report_length': 7217}
+2025-08-16 19:46:08,831 - logger - INFO - [2025-08-16T19:46:08.830393] Agent 'ReviewerAgent' completed in 57.36s with output size: 83937
+2025-08-16 20:07:26,920 - logger - INFO - [2025-08-16T20:07:26.920345] Agent 'ResearchAgent' started with params: {'topic': 'Toothpastes in 2025', 'num_results': 3}
+2025-08-16 20:07:36,135 - logger - INFO - [2025-08-16T20:07:36.135857] Agent 'ResearchAgent' completed in 9.22s with output size: 1771
+2025-08-16 20:07:36,136 - logger - INFO - [2025-08-16T20:07:36.136204] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-16 20:08:31,608 - logger - INFO - [2025-08-16T20:08:31.608222] Agent 'AnalysisAgent' completed in 55.47s with output size: 6810
+2025-08-16 20:08:31,609 - logger - INFO - [2025-08-16T20:08:31.609027] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-16 20:08:55,462 - logger - INFO - [2025-08-16T20:08:55.462580] Agent 'WriterAgent' completed in 23.85s with output size: 5056
+2025-08-16 20:08:55,462 - logger - INFO - [2025-08-16T20:08:55.462712] Agent 'ReviewerAgent' started with params: {'draft_report_length': 5056}
+2025-08-16 20:09:23,111 - logger - INFO - [2025-08-16T20:09:23.111104] Agent 'ReviewerAgent' completed in 27.65s with output size: 5353
+2025-08-16 20:20:14,169 - logger - INFO - [2025-08-16T20:20:14.169932] Agent 'ResearchAgent' started with params: {'topic': 'Software engineering in 2025', 'num_results': 3}
+2025-08-16 20:20:26,209 - logger - INFO - [2025-08-16T20:20:26.209839] Agent 'ResearchAgent' completed in 12.04s with output size: 2177
+2025-08-16 20:20:26,209 - logger - INFO - [2025-08-16T20:20:26.209986] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-16 20:21:25,690 - logger - INFO - [2025-08-16T20:21:25.690707] Agent 'AnalysisAgent' completed in 59.48s with output size: 8340
+2025-08-16 20:21:25,690 - logger - INFO - [2025-08-16T20:21:25.690915] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-16 20:22:14,461 - logger - INFO - [2025-08-16T20:22:14.461140] Agent 'WriterAgent' completed in 48.77s with output size: 68512
+2025-08-16 20:22:14,461 - logger - INFO - [2025-08-16T20:22:14.461329] Agent 'ReviewerAgent' started with params: {'draft_report_length': 68512}
+2025-08-16 20:23:25,668 - logger - INFO - [2025-08-16T20:23:25.668431] Agent 'ReviewerAgent' completed in 71.21s with output size: 8666
