@@ -22,7 +22,7 @@ app = FastAPI(
 # Configure CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # wide-open to rule out env mismatch
+    allow_origins=["multi-agents-workflow-automation.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
