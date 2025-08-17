@@ -22,11 +22,15 @@ app = FastAPI(
 # Configure CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["multi-agents-workflow-automation.vercel.app"],
+    allow_origins=[
+        "https://multi-agents-workflow-automation.vercel.app",  # production frontend
+        "http://localhost:3000",  # local dev
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 # Include routers
 app.include_router(research_router, prefix="/api", tags=["research"])
