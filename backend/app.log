@@ -147,3 +147,73 @@
 2025-08-16 20:22:14,461 - logger - INFO - [2025-08-16T20:22:14.461140] Agent 'WriterAgent' completed in 48.77s with output size: 68512
 2025-08-16 20:22:14,461 - logger - INFO - [2025-08-16T20:22:14.461329] Agent 'ReviewerAgent' started with params: {'draft_report_length': 68512}
 2025-08-16 20:23:25,668 - logger - INFO - [2025-08-16T20:23:25.668431] Agent 'ReviewerAgent' completed in 71.21s with output size: 8666
+2025-08-19 19:30:59,747 - logger - INFO - [2025-08-19T19:30:59.746984] Agent 'ResearchAgent' started with params: {'topic': '2025 AI trends', 'num_results': 3}
+2025-08-19 19:31:07,144 - logger - INFO - [2025-08-19T19:31:07.144612] Agent 'ResearchAgent' completed in 7.40s with output size: 2188
+2025-08-19 19:31:07,144 - logger - INFO - [2025-08-19T19:31:07.144737] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-19 19:31:16,779 - logger - INFO - [2025-08-19T19:31:16.779841] Agent 'AnalysisAgent' completed in 9.64s with output size: 1695
+2025-08-19 19:31:16,780 - logger - INFO - [2025-08-19T19:31:16.780012] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-19 19:31:22,513 - logger - INFO - [2025-08-19T19:31:22.513902] Agent 'WriterAgent' completed in 5.73s with output size: 0
+2025-08-19 19:31:22,514 - logger - INFO - [2025-08-19T19:31:22.514038] Agent 'ReviewerAgent' started with params: {'draft_report_length': 0}
+2025-08-19 19:31:24,459 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised InternalServerError: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting.
+2025-08-19 19:31:29,172 - logger - INFO - [2025-08-19T19:31:29.172059] Agent 'ReviewerAgent' completed in 6.66s with output size: 86
+2025-08-19 19:35:27,845 - logger - INFO - [2025-08-19T19:35:27.845864] Agent 'ResearchAgent' started with params: {'topic': '2025 AI trends', 'num_results': 3}
+2025-08-19 19:35:44,796 - logger - INFO - [2025-08-19T19:35:44.796823] Agent 'ResearchAgent' completed in 16.95s with output size: 1958
+2025-08-19 19:35:44,797 - logger - INFO - [2025-08-19T19:35:44.797611] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-19 19:36:15,487 - logger - INFO - [2025-08-19T19:36:15.487450] Agent 'AnalysisAgent' completed in 30.69s with output size: 2512
+2025-08-19 19:36:15,487 - logger - INFO - [2025-08-19T19:36:15.487714] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-19 19:36:17,739 - logger - INFO - [2025-08-19T19:36:17.739357] Agent 'WriterAgent' completed in 2.25s with output size: 1491
+2025-08-19 19:36:17,739 - logger - INFO - [2025-08-19T19:36:17.739487] Agent 'ReviewerAgent' started with params: {'draft_report_length': 1491}
+2025-08-19 19:36:55,014 - logger - INFO - [2025-08-19T19:36:55.014536] Agent 'ReviewerAgent' completed in 37.28s with output size: 4579
+2025-08-19 19:44:26,352 - logger - INFO - [2025-08-19T19:44:26.351985] Agent 'ResearchAgent' started with params: {'topic': '2025 AI trends', 'num_results': 3}
+2025-08-19 19:44:33,749 - logger - INFO - [2025-08-19T19:44:33.749791] Agent 'ResearchAgent' completed in 7.40s with output size: 2188
+2025-08-19 19:44:33,750 - logger - INFO - [2025-08-19T19:44:33.750006] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-19 19:45:21,790 - logger - INFO - [2025-08-19T19:45:21.790281] Agent 'AnalysisAgent' completed in 48.04s with output size: 10001
+2025-08-19 19:45:21,790 - logger - INFO - [2025-08-19T19:45:21.790471] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-19 19:45:24,028 - logger - INFO - [2025-08-19T19:45:24.028368] Agent 'WriterAgent' completed in 2.24s with output size: 9883
+2025-08-19 19:45:24,028 - logger - INFO - [2025-08-19T19:45:24.028556] Agent 'ReviewerAgent' started with params: {'draft_report_length': 9883}
+2025-08-19 19:45:31,384 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised InternalServerError: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting.
+2025-08-19 19:45:36,186 - logger - INFO - [2025-08-19T19:45:36.186479] Agent 'ReviewerAgent' completed in 12.16s with output size: 10080
+2025-08-19 19:51:40,489 - logger - INFO - [2025-08-19T19:51:40.489693] Agent 'ResearchAgent' started with params: {'topic': 'linkedln job search in 2025', 'num_results': 3}
+2025-08-19 19:51:47,206 - logger - INFO - [2025-08-19T19:51:47.206354] Agent 'ResearchAgent' completed in 6.72s with output size: 2180
+2025-08-19 19:51:47,206 - logger - INFO - [2025-08-19T19:51:47.206504] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-19 19:52:09,132 - logger - INFO - [2025-08-19T19:52:09.132449] Agent 'AnalysisAgent' completed in 21.93s with output size: 2371
+2025-08-19 19:52:09,132 - logger - INFO - [2025-08-19T19:52:09.132654] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-19 19:52:39,853 - logger - INFO - [2025-08-19T19:52:39.853207] Agent 'WriterAgent' completed in 30.72s with output size: 4465
+2025-08-19 19:52:39,853 - logger - INFO - [2025-08-19T19:52:39.853339] Agent 'ReviewerAgent' started with params: {'draft_report_length': 4465}
+2025-08-19 19:52:41,800 - logger - INFO - [2025-08-19T19:52:41.800772] Agent 'ReviewerAgent' completed in 1.95s with output size: 4602
+2025-08-19 19:59:57,241 - logger - INFO - [2025-08-19T19:59:57.241024] Agent 'ResearchAgent' started with params: {'topic': 'linkedln job search in 2025', 'num_results': 3}
+2025-08-19 20:00:05,535 - logger - INFO - [2025-08-19T20:00:05.535594] Agent 'ResearchAgent' completed in 8.29s with output size: 2226
+2025-08-19 20:00:05,535 - logger - INFO - [2025-08-19T20:00:05.535879] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-19 20:00:38,051 - logger - INFO - [2025-08-19T20:00:38.051910] Agent 'AnalysisAgent' completed in 32.52s with output size: 3028
+2025-08-19 20:00:38,052 - logger - INFO - [2025-08-19T20:00:38.052067] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-19 20:01:04,881 - logger - INFO - [2025-08-19T20:01:04.881380] Agent 'WriterAgent' completed in 26.83s with output size: 4080
+2025-08-19 20:01:04,881 - logger - INFO - [2025-08-19T20:01:04.881515] Agent 'ReviewerAgent' started with params: {'draft_report_length': 4080}
+2025-08-19 20:09:42,623 - logger - INFO - [2025-08-19T20:09:42.623019] Agent 'ResearchAgent' started with params: {'topic': 'linkedln job search in 2025', 'num_results': 3}
+2025-08-19 20:09:54,650 - logger - INFO - [2025-08-19T20:09:54.650425] Agent 'ResearchAgent' completed in 12.03s with output size: 2197
+2025-08-19 20:09:54,650 - logger - INFO - [2025-08-19T20:09:54.650559] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-19 20:10:48,493 - logger - INFO - [2025-08-19T20:10:48.493714] Agent 'AnalysisAgent' completed in 53.84s with output size: 7963
+2025-08-19 20:10:48,493 - logger - INFO - [2025-08-19T20:10:48.493892] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-19 20:11:13,756 - logger - INFO - [2025-08-19T20:11:13.756346] Agent 'WriterAgent' completed in 25.26s with output size: 4741
+2025-08-19 20:11:13,756 - logger - INFO - [2025-08-19T20:11:13.756496] Agent 'ReviewerAgent' started with params: {'draft_report_length': 4741}
+2025-08-19 20:14:08,009 - logger - INFO - [2025-08-19T20:14:08.009028] Agent 'ResearchAgent' started with params: {'topic': 'trending dresses', 'num_results': 3}
+2025-08-19 20:14:31,191 - logger - INFO - [2025-08-19T20:14:31.191152] Agent 'ResearchAgent' completed in 23.18s with output size: 1740
+2025-08-19 20:14:31,191 - logger - INFO - [2025-08-19T20:14:31.191301] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-19 20:14:45,208 - langchain_google_genai.chat_models - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised InternalServerError: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting.
+2025-08-19 20:15:23,915 - logger - INFO - [2025-08-19T20:15:23.915558] Agent 'AnalysisAgent' completed in 52.72s with output size: 7013
+2025-08-19 20:15:23,915 - logger - INFO - [2025-08-19T20:15:23.915740] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-19 20:15:51,254 - logger - INFO - [2025-08-19T20:15:51.254692] Agent 'WriterAgent' completed in 27.34s with output size: 4774
+2025-08-19 20:15:51,254 - logger - INFO - [2025-08-19T20:15:51.254836] Agent 'ReviewerAgent' started with params: {'draft_report_length': 4774}
+2025-08-19 20:17:24,570 - logger - INFO - [2025-08-19T20:17:24.570689] Agent 'ResearchAgent' started with params: {'topic': 'GMO and related issues in 2025', 'num_results': 3}
+2025-08-19 20:17:34,639 - logger - INFO - [2025-08-19T20:17:34.639815] Agent 'ResearchAgent' completed in 10.07s with output size: 2288
+2025-08-19 20:17:34,639 - logger - INFO - [2025-08-19T20:17:34.639981] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-19 20:18:44,868 - logger - INFO - [2025-08-19T20:18:44.868327] Agent 'AnalysisAgent' completed in 70.23s with output size: 7954
+2025-08-19 20:18:44,868 - logger - INFO - [2025-08-19T20:18:44.868570] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-19 20:18:47,487 - logger - INFO - [2025-08-19T20:18:47.487528] Agent 'WriterAgent' completed in 2.62s with output size: 5889
+2025-08-19 20:18:47,487 - logger - INFO - [2025-08-19T20:18:47.487661] Agent 'ReviewerAgent' started with params: {'draft_report_length': 5889}
+2025-08-19 20:22:31,278 - logger - INFO - [2025-08-19T20:22:31.278595] Agent 'ResearchAgent' started with params: {'topic': 'GMO and related issues in 2025', 'num_results': 3}
+2025-08-19 20:22:48,044 - logger - INFO - [2025-08-19T20:22:48.043977] Agent 'ResearchAgent' completed in 16.77s with output size: 2320
+2025-08-19 20:22:48,044 - logger - INFO - [2025-08-19T20:22:48.044181] Agent 'AnalysisAgent' started with params: {'num_results': 3}
+2025-08-19 20:23:43,529 - logger - INFO - [2025-08-19T20:23:43.529158] Agent 'AnalysisAgent' completed in 55.48s with output size: 8809
+2025-08-19 20:23:43,529 - logger - INFO - [2025-08-19T20:23:43.529418] Agent 'WriterAgent' started with params: {'report_style': 'concise'}
+2025-08-19 20:24:12,816 - logger - INFO - [2025-08-19T20:24:12.816775] Agent 'WriterAgent' completed in 29.29s with output size: 5906
+2025-08-19 20:24:12,817 - logger - INFO - [2025-08-19T20:24:12.817018] Agent 'ReviewerAgent' started with params: {'draft_report_length': 5906}
